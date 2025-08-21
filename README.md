@@ -37,20 +37,3 @@ The **Dynamic Resume Builder Platform** is a **full-stack MERN application** tha
 | **API**       | RESTful APIs           |
 | **Auth**      | JWT Authentication     |
 | **PDF Export**| React-PDF, jsPDF       |
-
----
-
-## 📸 Screenshots  
-
-| Dashboard | Resume Preview | PDF Export |
-|-----------|---------------|------------|
-| ![Dashboard](https://via.placeholder.com/400x220/1E3A8A/FFFFFF?text=Dashboard) | ![Preview](https://via.placeholder.com/400x220/2563EB/FFFFFF?text=Live+Preview) | ![PDF Export](https://via.placeholder.com/400x220/9333EA/FFFFFF?text=PDF+Export) |
-
----
-
-## 🚀 Getting Started  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/resume-builder.git
-cd resume-builder
