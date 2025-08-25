@@ -1,11 +1,5 @@
 # 🚀 Dynamic Resume Builder Platform  
-
-![MERN](https://img.shields.io/badge/MERN-Stack-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Styled_with-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST API](https://img.shields.io/badge/API-RESTful-FF9800?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth-JWT%20Secure-007ACC?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![PDF Export](https://img.shields.io/badge/Feature-Multi%20Template%20PDF-9C27B0?style=for-the-badge)
-
+ 
 ### 🌐 **Live Demo** → [Dynamic Resume Builder](https://resumemern-frontend-l7rz.onrender.com/)
 
 ---
